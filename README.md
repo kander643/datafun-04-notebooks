@@ -1,10 +1,9 @@
 # datafun-04-notebooks
 
-<!-- TODO: update the GitHub account name to match YOUR GitHub account name -->
 
-[![Docs Deploy](https://github.com/denisecase/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml/badge.svg?branch=main)](https://github.com/denisecase/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml)
-[![CI](https://github.com/denisecase/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml/badge.svg?branch=main)](https://github.com/denisecase/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml)
-[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://denisecase.github.io/datafun-04-notebooks/)
+[![Docs Deploy](https://github.com/kander643/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml/badge.svg?branch=main)](https://github.com/kander643/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml)
+[![CI](https://github.com/kander643/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml/badge.svg?branch=main)](https://github.com/kander643/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml)
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://kander643.github.io/datafun-04-notebooks/)
 [![Python](https://img.shields.io/badge/python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/)
 
 > Professional Python project: exploratory data analysis with Jupyter notebooks.
@@ -32,7 +31,7 @@ you'll create a similar notebook to explore a different **tabular** data file (a
 ## 01: Set Up Machine (Once Per Machine)
 
 Follow the detailed instructions at:
-[**01. Set Up Your Machine**](https://denisecase.github.io/pro-analytics-02/01-set-up-machine/)
+[**01. Set Up Your Machine**](https://kander643.github.io/pro-analytics-02/01-set-up-machine/)
 
 ## 02: Set Up Project (Once Per Project)
 
@@ -87,14 +86,14 @@ uvx pre-commit run --all-files
 ```
 
 For more detailed instructions and troubleshooting, see the pro guide at:
-[**02. Set Up Your Project**](https://denisecase.github.io/pro-analytics-02/02-set-up-project/)
+[**02. Set Up Your Project**](https://kander643.github.io/pro-analytics-02/02-set-up-project/)
 
 🛑 Do not continue until all REQUIRED steps are complete and verified.
 
 ## 03: Daily Workflow (Working With Python Project Code)
 
 Follow the detailed instructions at:
-[**03. Daily Workflow**](https://denisecase.github.io/pro-analytics-02/03-daily-workflow/)
+[**03. Daily Workflow**](https://kander643.github.io/pro-analytics-02/03-daily-workflow/)
 
 Commands are provided below to:
 
@@ -150,7 +149,7 @@ git commit -m "update"
 git push -u origin main
 ```
 
-Additional details and troubleshooting are available in the [Pro-Analytics-02 Documentation](https://denisecase.github.io/pro-analytics-02/).
+Additional details and troubleshooting are available in the [Pro-Analytics-02 Documentation](https://kander643.github.io/pro-analytics-02/).
 
 ---
 
@@ -247,7 +246,7 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 
 ## Resources
 
-- [Pro-Analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional Python
+- [Pro-Analytics-02](https://kander643.github.io/pro-analytics-02/) - guide to professional Python
 - [ANNOTATIONS.md](./ANNOTATIONS.md) - REQ/WHY/OBS annotations used
 - [INSTRUCTORS.md](./INSTRUCTORS.md) - guidance and notes for instructors and maintainers
 - [POLICIES.md](./POLICIES.md) - project rules and expectations that apply to all contributors
